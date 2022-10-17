@@ -2,9 +2,6 @@ package FibbonaciSeries;
 
 public class FibbonaciSeries {
 
-    public void FibonaciSeries() {
-    }
-
     public void fibonacciTest(int number) {
         for(int i = 1; i <= number; ++i) {
             System.out.print(fibonacci2(i) + " ");

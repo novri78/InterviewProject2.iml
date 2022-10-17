@@ -1,8 +1,6 @@
 package FizzBuzz;
 
 public class FizzBuzz {
-    public FizzBuzz() {
-    }
 
     public void fizzBuzzTest(int totalNum) {
         for(int i = 1; i <= totalNum; ++i) {
