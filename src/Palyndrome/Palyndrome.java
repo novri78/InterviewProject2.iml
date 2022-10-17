@@ -1,8 +1,6 @@
 package Palyndrome;
 
 class PalyndromeTest {
-    public void palyndromeTest() {
-    }
 
     public boolean isPalyndrome(String value) {
         for(int i = 0; i < value.length() / 2; ++i) {
