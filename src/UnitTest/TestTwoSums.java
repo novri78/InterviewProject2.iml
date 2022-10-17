@@ -1,10 +1,11 @@
-package TwoSums;
+package UnitTest;
 
+import TwoSums.TwoSums;
 import org.junit.Test;
 
 import java.util.Arrays;
 
-public class TestTwoSums extends TwoSums{
+public class TestTwoSums extends TwoSums {
 
     @Test
     public void getTwoSumsTest() {

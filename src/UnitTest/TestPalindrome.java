@@ -1,14 +1,10 @@
-package Palyndrome;
+package UnitTest;
 
+import Palyndrome.Palyndrome;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class TestPalindrome extends PalyndromeTest{
-
-    @Test
-    public void test() {
-        Assert.assertTrue(this.isPalyndrome("abba"));
-    }
+public class TestPalindrome extends Palyndrome {
 
     @Test
     public void testPalyndrome() {

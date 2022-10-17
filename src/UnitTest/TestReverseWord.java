@@ -1,8 +1,9 @@
-package ReverseWord;
+package UnitTest;
 
+import ReverseWord.ReverseWord;
 import org.junit.Test;
 
-public class TestReverseWord extends ReverseWord{
+public class TestReverseWord extends ReverseWord {
 
     @Test
     public void testReverse() {

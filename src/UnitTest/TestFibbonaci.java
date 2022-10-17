@@ -1,5 +1,6 @@
-package FibbonaciSeries;
+package UnitTest;
 
+import FibbonaciSeries.FibbonaciSeries;
 import org.junit.Test;
 
 public class TestFibbonaci extends FibbonaciSeries {

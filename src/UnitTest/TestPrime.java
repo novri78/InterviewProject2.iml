@@ -1,9 +1,10 @@
-package PrimeNumber;
+package UnitTest;
 
+import PrimeNumber.Prime;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class TestPrime extends Prime{
+public class TestPrime extends Prime {
     @Test
     public void testPrime(){
         Assert.assertFalse(isPrimeNumber(8));
