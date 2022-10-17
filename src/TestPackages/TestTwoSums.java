@@ -1,4 +1,4 @@
-package UnitTest;
+package TestPackages;
 
 import TwoSums.TwoSums;
 import org.junit.Test;

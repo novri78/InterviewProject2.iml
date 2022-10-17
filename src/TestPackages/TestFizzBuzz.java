@@ -1,4 +1,4 @@
-package UnitTest;
+package TestPackages;
 
 import FizzBuzz.FizzBuzz;
 import org.junit.Test;

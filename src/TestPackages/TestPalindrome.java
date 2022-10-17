@@ -1,4 +1,4 @@
-package UnitTest;
+package TestPackages;
 
 import Palyndrome.Palyndrome;
 import org.junit.Assert;

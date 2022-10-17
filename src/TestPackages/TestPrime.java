@@ -1,4 +1,4 @@
-package UnitTest;
+package TestPackages;
 
 import PrimeNumber.Prime;
 import org.junit.Assert;

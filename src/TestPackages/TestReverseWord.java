@@ -1,4 +1,4 @@
-package UnitTest;
+package TestPackages;
 
 import ReverseWord.ReverseWord;
 import org.junit.Test;
