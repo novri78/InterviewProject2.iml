@@ -1,5 +1,3 @@
-package TestPackages;
-
 import PrimeNumber.Prime;
 import org.junit.Assert;
 import org.junit.Test;

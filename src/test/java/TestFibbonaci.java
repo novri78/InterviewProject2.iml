@@ -1,5 +1,3 @@
-package TestPackages;
-
 import FibbonaciSeries.FibbonaciSeries;
 import org.junit.Test;
 

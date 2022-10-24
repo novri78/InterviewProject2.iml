@@ -1,5 +1,3 @@
-package TestPackages;
-
 import org.junit.Before;
 import org.junit.Test;
 import exercises.ExerciseManagement;

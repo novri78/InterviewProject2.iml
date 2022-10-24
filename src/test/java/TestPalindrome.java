@@ -1,5 +1,3 @@
-package TestPackages;
-
 import Palyndrome.Palyndrome;
 import org.junit.Assert;
 import org.junit.Test;
