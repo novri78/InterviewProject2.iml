@@ -2,7 +2,7 @@ package TestPackages;
 
 import org.junit.Before;
 import org.junit.Test;
-import src.ExerciseManagement;
+import exercises.ExerciseManagement;
 
 import static org.junit.Assert.*;
 

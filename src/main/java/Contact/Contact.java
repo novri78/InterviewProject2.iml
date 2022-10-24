@@ -1,3 +1,5 @@
+package Contact;
+
 public class Contact {
     private String fName;
     private String lName;

@@ -1,4 +1,4 @@
-package src;
+package exercises;
 
 public class Exercise {
 

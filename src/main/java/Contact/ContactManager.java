@@ -1,3 +1,5 @@
+package Contact;
+
 import java.util.Collection;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
@@ -22,7 +24,7 @@ public class ContactManager {
 
     private void checkIfContactAlreadyExist(Contact contact) {
         if (contactList.containsKey(generateKey(contact)))
-            throw new RuntimeException("Contact Already Exist");
+            throw new RuntimeException("Contact.Contact Already Exist");
     }
 
     private void validateContact(Contact contact) {
